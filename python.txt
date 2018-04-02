@@ -1,0 +1,8 @@
+This is my first programming language i am writing it all for the purpose of the chnages
+Please have some paticent ce
+
+# NOw writing few codes 
+If ( num = 4 )
+ then echo "Please submit the last code"
+
+exit 0
